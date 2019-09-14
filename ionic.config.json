@@ -1,0 +1,7 @@
+{
+  "name": "cameranative",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
